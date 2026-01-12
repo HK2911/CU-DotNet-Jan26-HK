@@ -1,0 +1,6 @@
+C:\Users\hp\Source\Repos\GreetingSolution\GreetingLibrary\bin\Debug\GreetingLibrary.dll
+C:\Users\hp\Source\Repos\GreetingSolution\GreetingLibrary\bin\Debug\GreetingLibrary.pdb
+C:\Users\hp\Source\Repos\GreetingSolution\GreetingLibrary\obj\Debug\GreetingLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\GreetingSolution\GreetingLibrary\obj\Debug\GreetingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\GreetingSolution\GreetingLibrary\obj\Debug\GreetingLibrary.dll
+C:\Users\hp\Source\Repos\GreetingSolution\GreetingLibrary\obj\Debug\GreetingLibrary.pdb
