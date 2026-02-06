@@ -2,8 +2,6 @@
 {
     internal class Program
     {
-
-
         static void Main(string[] args)
         {
             decimal[] sales = new decimal[7];
